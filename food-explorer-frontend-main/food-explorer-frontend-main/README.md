@@ -4,12 +4,6 @@
 </h1>
 
 > Cardápio digital para um restaurante fictício
-
-
-<p align="center">
-  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
-</p>
-
 <h2 id="project">📁 Projeto</h2>
 
 O projeto Food Explorer consiste no desafio final do programa Explorer da Rocketseat. Trata-se de uma aplicação de cardápio digital para um restaurante fictício.
