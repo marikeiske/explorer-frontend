@@ -57,33 +57,6 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 
 
 
-Você também pode executá-la em sua máquina localmente. Certifique-se de ter o ``Node.js`` e o ``npm`` instalados antes de prosseguir com as etapas abaixo:
-
-1. Clone o projeto:
-
-```
-$ git clone https://github.com/madalena-rocha/food-explorer-frontend
-```
-
-2. Acesse a pasta do projeto:
-
-```
-$ cd food-explorer-frontend
-```
-
-3. Instale as dependências:
-
-```
-$ npm install
-```
-
-4. Inicie o servidor:
-
-```
-$ npm run dev
-```
-
-
  Você pode criar um novo usuário / testar a aplicação usando as seguintes informações de login:
 
 Admin:
